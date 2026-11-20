@@ -1,0 +1,9 @@
+Test ID,Area,Scenario,Expected result,Priority
+QA-01,Happy path,Reschedule to available future slot,Change saved and reflected after refresh,High
+QA-02,Conflict,Two users select same last available slot,Second save blocked with clear conflict message,Critical
+QA-03,Authorization,Read-only role attempts reschedule,Action denied without modifying data,Critical
+QA-04,Validation,Select time in the past,Save blocked with specific validation message,Medium
+QA-05,Integration,External calendar returns failure,UI reports failure and preserves consistent state,Critical
+QA-06,Accessibility,Complete flow with keyboard only,Visible focus and no keyboard trap,High
+QA-07,Accessibility,Trigger validation error with screen reader,Error linked to input and announced,High
+QA-08,Regression,Refresh page after successful change,New appointment time persists,High
