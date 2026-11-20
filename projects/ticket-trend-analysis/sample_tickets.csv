@@ -1,0 +1,13 @@
+id,opened_date,status,severity,product_area,symptom
+T-101,2026-10-01,Open,High,Access,Unable to sign in after role change
+T-102,2026-10-02,Resolved,Medium,Scheduling,Appointment not visible
+T-103,2026-10-03,Open,Medium,Integrations,Sync delayed
+T-104,2026-10-04,Open,High,Access,Unable to sign in after role change
+T-105,2026-10-05,Resolved,Low,Reporting,Export formatting
+T-106,2026-10-06,Open,High,Integrations,Sync delayed
+T-107,2026-10-07,Open,Medium,Scheduling,Appointment not visible
+T-108,2026-10-08,Resolved,Medium,Access,Password reset email delayed
+T-109,2026-10-09,Open,Medium,Integrations,Sync delayed
+T-110,2026-10-10,Open,Low,Reporting,Export formatting
+T-111,2026-10-11,Open,High,Access,Unable to sign in after role change
+T-112,2026-10-12,Resolved,Low,Scheduling,Calendar color mismatch
